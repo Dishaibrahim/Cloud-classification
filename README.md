@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 ## Contributors
 
-- [Your Name](https://github.com/yourusername)
+- [Disha Ibrahim](https://github.com/dishaibrahim)
 
 ## License
 

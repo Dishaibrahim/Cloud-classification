@@ -59,9 +59,6 @@ pip install -r requirements.txt
 
 - [Disha Ibrahim](https://github.com/dishaibrahim)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
 You can copy and paste this content into your README.md file in your GitHub repository. Make sure to replace "yourusername" with your actual GitHub username and adjust any other details as necessary.
